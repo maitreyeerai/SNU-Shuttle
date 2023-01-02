@@ -11,7 +11,3 @@ How to run the project?
 For admin:
 NETID: admin
 Password: admin
-
-NOTE:
-The frontend of this project is built using bootstrap and other online CSS vendors [check assets folder].
-No intention of plagarism was kept in mind as these are free online available resources.
