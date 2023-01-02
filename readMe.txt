@@ -1,9 +1,6 @@
 *****SNU SHUTTLE*****
 
-Online Shuttle Booking System for our university
-
-Name: Maitreyee Rai
-Roll no.: 2010110382
+Online Shuttle Booking System for SNU
 
 How to run the project?
 1. Import the database 'snu_shuttle' from the database folder on localhost/phpmyadmmin 
